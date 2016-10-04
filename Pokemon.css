@@ -1,0 +1,15 @@
+header{
+/*background-color: yellow;*/
+}
+
+img{
+	padding: 5px;
+	height: 300px;
+	width: 350px;
+	float: right;
+}
+body{
+	background-image: url(backgroundpoke.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
