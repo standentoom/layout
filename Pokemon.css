@@ -6,10 +6,18 @@ img{
 	padding: 5px;
 	height: 300px;
 	width: 350px;
-	float: right;
+	
 }
 body{
-	background-image: url(backgroundpoke.jpg);
+	background-image: url(beckgroundpoke.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
+}
+div.title{
+	text-align: center;
+}
+div.text{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
 }

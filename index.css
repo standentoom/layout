@@ -1,0 +1,38 @@
+div.omheen1{
+	
+	margin: 0 auto;
+	width: 900px;
+}
+div.pokemon{
+	background-color: lightblue;
+	border-style: solid;
+	padding: 3px;
+	border-color: blue;
+	border-style: double;
+}
+div.Fifa17{
+	background-color: lightblue;
+	border-style: solid;
+	padding: 10px;
+	border-color: blue;
+	margin-left: 10px;
+	border-style: double;
+}
+
+body{
+	background-image: url(backgroundindex.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+img.fifa17{
+	width: 300px
+}
+p{
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+h1{
+	text-align: center;
+}
