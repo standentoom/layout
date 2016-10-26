@@ -1,14 +1,21 @@
-div.omheen1{
-	
+*{
+	padding: 0 auto;
 	margin: 0 auto;
-	width: 900px;
+}
+div.omheen1{	
+	margin: 0 auto;
+	width: 400px;
 }
 div.pokemon{
 	background-color: lightblue;
 	border-style: solid;
-	padding: 3px;
+	padding: 10px;
 	border-color: blue;
+	margin-left: 10px;
 	border-style: double;
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
 }
 div.Fifa17{
 	background-color: lightblue;
@@ -17,22 +24,67 @@ div.Fifa17{
 	border-color: blue;
 	margin-left: 10px;
 	border-style: double;
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
 }
 
 body{
-	background-image: url(backgroundindex.jpg);
-	background-repeat: no-repeat;
 	background-size: 100%;
+	background-color: black;
 }
 img.fifa17{
-	width: 300px
+	width: 399px
+
 }
 p{
 	color: white;
+	width: 400px;
+	text-align: center;
+	margin: 0 auto;
+
 }
 a{
 	text-decoration: none;
+	text-decoration-color: blue;
 }
 h1{
 	text-align: center;
+}
+img.pokemon{
+	width: 399px;
+}
+h2{
+	color: white;
+	width: 400px;
+	text-align: center;
+	margin: 0 auto;
+}
+img.reclame{
+	position: fixed;
+	right: 100px;
+	top: 250px;
+}
+img.steam{
+	width: 399px;
+}
+div.steam{
+	background-color: lightblue;
+	border-style: solid;
+	padding: 10px;
+	border-color: blue;
+	margin-left: 10px; 
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+div.balky{
+	background-color: blue;
+	padding: 0 auto;
+	margin-top: 0px;
+}
+div.kop{
+	background-color: lightblue;
+	padding: 0 auto;
+	margin-bottom: 0px;
 }
