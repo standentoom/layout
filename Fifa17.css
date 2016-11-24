@@ -26,11 +26,6 @@ h1{
 	text-align: center;
 }
 
-img.reclame{
-	position: fixed;
-	right: 100px;
-	top: 250px;
-}
 
 div.balky{
 	background-color: blue;
@@ -43,15 +38,6 @@ div.kop{
 	margin-bottom: 0px;
 }
 
-img.pokemon{
-	padding: 5px;
-	height: 300px;
-	width: 350px;
-	
-}
-body{
-		
-}
 
 div.text{
 	background-color: lightblue;
@@ -65,13 +51,7 @@ div.text{
 	text-align: center;
 }
 
-div.warturtle{
 
-	background-image: url(beckgroundpoke.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	padding-top: 10px;	
-}
 img.pokemon{
 	display: block;
 }
